@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge",
+  "description": "Unlocking Displaced Talent: Pathways for Skilled Refugees connecting professionals to opportunities, credential guidance, mentorship, and career readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
